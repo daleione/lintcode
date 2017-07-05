@@ -1,0 +1,2 @@
+# lintcode
+My lintcode answers
